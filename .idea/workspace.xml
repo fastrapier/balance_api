@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af57252e-8050-46ef-b098-017389a78cbc" name="Changes" comment="" />
+    <list default="true" id="af57252e-8050-46ef-b098-017389a78cbc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../balance_api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../balance_api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../balance_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../balance_api/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +21,14 @@
     </option>
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../balance_api" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OyCzlzlzTRvvO3jnlSKXAEg2rr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
