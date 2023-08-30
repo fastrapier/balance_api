@@ -1,0 +1,1 @@
+https://github.com/avito-tech/autumn-2021-intern-assignment
